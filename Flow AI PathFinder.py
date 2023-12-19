@@ -15,7 +15,7 @@ import pygame
 size = 8
 
 """"""""""""""""""""""""""""""""
-
+   
 # PyGame used to visualize game
 # Defines colors of game functionality
 BLACK = (0, 0, 0)
